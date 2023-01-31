@@ -1,4 +1,4 @@
-## OSCAR-MD-V6
+## TONI SUPENDI V2
 
 <p align="center">
 
@@ -10,17 +10,17 @@
 <img src="https://telegra.ph/file/c6f6d447f2c76e3795a10.jpg" alt="Img" width="128" height="128"/>
 </p>
  <p align="center">
-<a href="#"><img title="JAROT OFFC" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="TONI SR" src="https://img.shields.io/badge/TONI%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://wa.me/6285850539404"><img title="Author" src="https://img.shields.io/badge/Author-JAROT OFFC/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/62811250095"><img title="Author" src="https://img.shields.io/badge/Author-Toni SR/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 <a href="https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=Youtube"></a>
-<a href="https://instagram.com/Jarotr_"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=Instagram"></a>
-<a href="https://chat.whatsapp.com/KGuKY4wuKHS8sj6K5IHjFG"><img title="Group Jarot offc" src="https://img.shields.io/badge/Group-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=WhatsApp"></a>
+<a href="https://instagram.com/Jarotr_"><img title="Instagram" src="https://img.shields.io/badge/Instagram-hay_ton/JulieMwol?color=blue&style=for-the-badge&logo=Instagram"></a>
+<a href="https://chat.whatsapp.com/KGuKY4wuKHS8sj6K5IHjFG"><img title="Group TONI SR" src="https://img.shields.io/badge/Group-happy bot/JulieMwol?color=blue&style=for-the-badge&logo=WhatsApp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/JarotOffc">JAROT OFFC</a> to make it public
+Project created by <a href="https://github.com/Tonisr17">Tonisr</a> to make it public
     <br>
        | © |
         Reserved |
