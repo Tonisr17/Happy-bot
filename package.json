@@ -1,5 +1,5 @@
 {
-  "name": "DASX000-BOT-WA",
+  "name": "Happy-Bot™",
   "version": "1.0.0",
   "description": "BOT WA NODEJS",
   "main": "index.js",
@@ -19,7 +19,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "DASX000",
+  "author": "Happy-Bot™",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:dasx000/Baileys",
@@ -80,10 +80,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dasx000/MD-BOTDAS"
+    "url": "git+https://github.com/Tonisr17/Happy-bot"
   },
   "bugs": {
-    "url": "https://github.com/dasx000/MD-BOTDAS/issues"
+    "url": "https://github.com/Tonisr17/Happy-bot/issues"
   },
-  "homepage": "https://github.com/dasx000/MD-BOTDAS#readme"
+  "homepage": "https://github.com/Tonisr17/Happy-bot#readme"
 }
